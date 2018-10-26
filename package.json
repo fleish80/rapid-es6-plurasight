@@ -16,7 +16,5 @@
     "url": "https://github.com/fleish80/rapid-es6-plurasight/issues"
   },
   "homepage": "https://github.com/fleish80/rapid-es6-plurasight#readme",
-  "dependencies": {
-    "traceur": "github:google/traceur-compiler"
-  }
+  "dependencies": {}
 }

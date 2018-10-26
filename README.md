@@ -7,4 +7,6 @@ https://internet-israel.com/%D7%A4%D7%99%D7%AA%D7%95%D7%97-%D7%90%D7%99%D7%A0%D7
 # How-to: call() , apply() and bind() in JavaScript
 https://www.codementor.io/niladrisekhardutta/how-to-call-apply-and-bind-in-javascript-8i1jca6jp
 
+# Course work for Pluralsight course "Rapid ES6 Training"
+https://github.com/scottengle/ps_res6t 
 
